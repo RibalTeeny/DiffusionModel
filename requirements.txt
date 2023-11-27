@@ -1,0 +1,2 @@
+torchvision==0.16.1
+labml-helpers==0.4.89
